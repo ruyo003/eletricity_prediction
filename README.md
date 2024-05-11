@@ -8,11 +8,13 @@ Explores weather and energy datasets individually.
 Identifies key insights and trends in the data.
 Visualizes relationships between variables using graphs and charts.
 Cleans and preprocesses the data for modeling.
+
 Prediction Models:
 
 Utilizes Random Forest Regressor and Gradient Boosting Regressor for prediction.
 Trains and evaluates the models on the merged dataset.
 Assesses model performance using appropriate metrics.
+
 Requirements:
 
 Python 3.x
