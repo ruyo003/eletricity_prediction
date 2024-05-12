@@ -1,6 +1,6 @@
 # eletricity_prediction
 
-This Notebook analyzes two datasets: weather data (CSV) and energy data (CSV). The notebook explores the datasets individually and then merges them to create a combined dataset for prediction purposes.
+This Notebook analyzes two datasets: weather data (CSV) and energy data (CSV). The notebook explores the datasets individually and then merges them to create a combined dataset(final_df) for prediction purposes.
 
 Analysis Highlights:
 
